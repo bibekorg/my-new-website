@@ -1,3 +1,3 @@
 # my-new-website
 
-Namastey
+Namastey full stack
